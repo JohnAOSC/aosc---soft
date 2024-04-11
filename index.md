@@ -114,3 +114,101 @@ in_menu: true
       </div>
     </div>
   </article> 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Mastodon.png">
+    </div>
+    <div>
+      <h2>Mastodon</h2>
+      <p>Un logiciel décentralisé et fédéré de microblogage en 500 caractères.</p>
+      <div>
+        <a href="https://framalibre.org/notices/mastodon.html">Vers la notice Framalibre</a>
+        <a href="https://joinmastodon.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/PeerTube.png">
+    </div>
+    <div>
+      <h2>PeerTube</h2>
+      <p>PeerTube est un logiciel décentralisé et fédéré d'hébergement de vidéos.</p>
+      <div>
+        <a href="https://framalibre.org/notices/peertube.html">Vers la notice Framalibre</a>
+        <a href="https://joinpeertube.org/fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Lemmy.jpeg">
+    </div>
+    <div>
+      <h2>Lemmy</h2>
+      <p>Suivez des communautés partout dans le monde. Un agrégateur de liens pour le fediverse.</p>
+      <div>
+        <a href="https://framalibre.org/notices/lemmy.html">Vers la notice Framalibre</a>
+        <a href="https://join-lemmy.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/KeepassXC.png">
+    </div>
+    <div>
+      <h2>KeepassXC</h2>
+      <p>KeePassXC est un fork communautaire de KeePassX. Ce logiciel dispose de fonctionnalités supplémentaires.</p>
+      <div>
+        <a href="https://framalibre.org/notices/keepassxc.html">Vers la notice Framalibre</a>
+        <a href="https://keepassxc.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Signal.png">
+    </div>
+    <div>
+      <h2>Signal</h2>
+      <p>Application de messagerie et téléphonie mobile respectueuse de la vie privée.</p>
+      <div>
+        <a href="https://framalibre.org/notices/signal.html">Vers la notice Framalibre</a>
+        <a href="https://signal.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Element.io%20(ex%20Riot.im).png">
+    </div>
+    <div>
+      <h2>Element (ex Riot)</h2>
+      <p>Element rassemble toutes vos conversations et intégrations applicatives en une seule application.</p>
+      <div>
+        <a href="https://framalibre.org/notices/element-ex-riot.html">Vers la notice Framalibre</a>
+        <a href="https://element.io">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/NewPipe.png">
+    </div>
+    <div>
+      <h2>NewPipe</h2>
+      <p>Client multimédia YouTube, PeerTube, SoundCloud &amp; MediaCCC libre pour Android.</p>
+      <div>
+        <a href="https://framalibre.org/notices/newpipe.html">Vers la notice Framalibre</a>
+        <a href="https://newpipe.schabi.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
